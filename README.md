@@ -8,7 +8,7 @@ Meu terceiro WebSite responsivo, fruto do estudo e análise do vídeo “How To 
  
  O Proa foi para mim uma porta de entrada nesse mundo de desenvolvimento de Software, Espero que gostem do projeto.
 
- MedCare: [Site do Projeto](https://luizsilvaa.github.io/MedCare/)
+ MedCare: [Site do Projeto](https://luizsilvaa.github.io/Shop-Coffee/)
 </h4>
 
 ## Tecnologias Utilizadas
@@ -20,7 +20,7 @@ Meu terceiro WebSite responsivo, fruto do estudo e análise do vídeo “How To 
 https://github.com/luizsilvaa/Projetos_Figma/assets/102686075/cbd0490e-9590-4308-b480-65a789b95a13
 
 ## Hospedagem
-https://luizsilvaa.github.io/MedCare/
+https://luizsilvaa.github.io/Shop-Coffee/
 
 ## Instituto PROA
 [Plataforma PROA](https://www.proa.org.br/)
